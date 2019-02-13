@@ -30,6 +30,7 @@ nav a {
 	border-radius: 5px;
 	text-decoration: none;
 	font-family: serif, Arial, "Times New Roman";
+	white-space: nowrap;
 }
 
 .active {
