@@ -33,6 +33,15 @@ nav a {
 	white-space: nowrap;
 }
 
+nav a.long-nav {
+	padding-left: 5px; 
+	padding-right: 5px;
+	width: 15%;
+
+}
+
+
+
 .active {
 	color: #000000;
 	background: #FFFFFF;
@@ -55,8 +64,11 @@ font-family: serif, Arial, "Times New Roman";
 
 .half-pic{
 	width:40%;
-	border: solid;
+	display: inline-block;
 }
+
+figure img{ border: solid; }
+
 
 h2{
 	text-align: center;
