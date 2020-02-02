@@ -69,6 +69,7 @@ font-family: serif, Arial, "Times New Roman";
 
 figure img{ border: solid; }
 
+figcaption{font-size: x-large;}
 
 h2{
 	text-align: center;
